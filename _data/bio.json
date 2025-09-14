@@ -7,7 +7,7 @@
     "phone": "+82) 010-8526-8179",
     "website": "https://lerelais.github.io",
     "summary": "논리적인 구조와 안정적인 시스템 구현에 관심이 많은 백엔드 개발자 남현준입니다. 트래픽과 장애 상황 속에서도 신뢰할 수 있는 백엔드 시스템을 구현하는 개발자가 되기 위해 학습을 이어가고 있습니다.",
-    "location": { "address": "서부로 2139 (SK Hub Blue)", "postalCode": "96822", "city": "수원시", "countryCode": "KOR", "region": "경기도" },
+    "location": { "address": "장안구 서부로 2139 (SK Hub Blue)", "postalCode": "96822", "city": "수원시", "countryCode": "KOR", "region": "경기도" },
     "profiles": [
       { "network": "github", "username": "LeRelais", "url": "http://github.com/LeRelais" }
     ]
@@ -70,9 +70,8 @@
       "position": "",
       "startDate": "2020-10",
       "endDate": "2023-06",
-      "summary": "같이 공부할 학우를 모집해 알고리즘 공부 진행",
       "highlights": [
-        ""
+        "같이 공부할 학우를 모집해 알고리즘 공부 진행"
       ]
     },
     {
