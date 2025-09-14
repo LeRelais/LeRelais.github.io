@@ -4,7 +4,7 @@ type: project
 image: img/micromouse/micromouse-square.jpg
 title: "Cafeboo"
 date: 2025-03 ~ 2025-08
-published: false
+published: true
 labels:
   - Java Spring Boot
   - Redis, Redis Stream
