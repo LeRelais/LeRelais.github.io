@@ -1,3 +1,23 @@
+---
+layout: project
+type: project
+image: img/micromouse/micromouse-square.jpg
+title: "Cafeboo"
+date: 2025
+published: false
+labels:
+  - Java Spring Boot
+  - Redis, Redis Stream
+  - MySQL
+summary: "카카오테크 부트캠프에서 팀 프로젝트로 개발하고 운영한 헬스케어 서비스"
+---
+
+<div class="text-center p-4">
+  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
+  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+</div>
+
 # Cafeboo - 헬스케어 서비스
 
 ## 📌 Project Details
@@ -55,3 +75,5 @@
 
 ## 🌐 Live Website
 🚧 Not released yet! Stay tuned.
+
+
