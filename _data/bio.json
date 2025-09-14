@@ -1,16 +1,15 @@
 {
   "basics": {
     "name": "남현준 | Hyeonjun Nam",
-    "label": "Student",
+    "label": "IT Developer",
     "picture": "/img/hyeonjun.png",
     "email": "lerelais0102@naver.com",
     "phone": "+82) 010-8526-8179",
     "website": "https://lerelais.github.io",
     "summary": "논리적인 구조와 안정적인 시스템 구현에 관심이 많은 백엔드 개발자 남현준입니다. 트래픽과 장애 상황 속에서도 신뢰할 수 있는 백엔드 시스템을 구현하는 개발자가 되기 위해 학습을 이어가고 있습니다.",
-    "location": { "address": "", "postalCode": "96822", "city": "수원", "countryCode": "KOR", "region": "경기도" },
+    "location": { "address": "서부로 2139 (SK Hub Blue)", "postalCode": "96822", "city": "수원시", "countryCode": "KOR", "region": "경기도" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/LeRelais" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" }
+      { "network": "github", "username": "LeRelais", "url": "http://github.com/LeRelais" }
     ]
   },
   "interests": [
@@ -24,7 +23,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "WindowOS", "MacOS", "Embedded Linux", "Git/GitHub" ]
     }
   ],
   "education": [
@@ -45,7 +44,7 @@
       "website": "",
       "startDate": "2025-07-24",
       "endDate": "2025-08-27",
-      "summary": "",
+      "summary": "IT금융개발부, 하나은행 데이터센터",
       "highlights": [
         "은행 모바일 및 인터넷뱅킹, API개발, 내부 업무 시스템 개발 업무 경험",
       ]
@@ -53,19 +52,20 @@
   ],
   "volunteer": [
     {
-      "organization": "카카오테크 부트캠프 2회차 - 풀스택 과정",
+      "organization": "카카오테크 부트캠프 2회차 - 풀스택 과정, 교외활동",
       "website": "",
       "position": "",
       "startDate": "2025-01-20",
       "endDate": "2025-08-01",
       "summary": "풀스택 개발에 필요한 지식 습득 및 프로젝트 진행",
       "highlights": [
-        "1 개인 프로젝트 (2개월), 1 팀 프로젝트 (4개월)수행",
-        "팀 프로젝트 수행간 서비스 개발 및 운용하며 라이브 이슈 대응, 성능 개선 진행"
+        "1 개인 프로젝트 (2개월)",
+        "1 팀 프로젝트 (4개월)수행",
+        "팀 프로젝트 수행간 서비스 개발 및 운용하며 라이브 이슈 대응, 성능 개선 작업 진행"
       ]
     },
     {
-      "organization": "알고리즘 스터디",
+      "organization": "알고리즘 스터디, 교내활동",
       "website": "",
       "position": "",
       "startDate": "2020-10",
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "organization": "리버싱 스터디",
+      "organization": "리버싱 스터디, 교내활동",
       "website": "",
       "position": "",
       "startDate": "2021-01",
