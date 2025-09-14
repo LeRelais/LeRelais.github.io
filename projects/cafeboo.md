@@ -13,11 +13,11 @@ summary: "My team developed a robotic mouse that won first place in the 2015 UH 
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="300px" src="../img/cafeboo/cafeboo-info-1.png" class="img-thumbnail" >
+  <img width="300px" src="../img/cafeboo/cafeboo-info-2.png" class="img-thumbnail" >
 </div>
 
+<hr>
 <br>
 
 <section aria-labelledby="project-details">
@@ -25,6 +25,7 @@ summary: "My team developed a robotic mouse that won first place in the 2015 UH 
   <p>개인이 등록한 카페인 섭취 내역을 바탕으로 그에 대한 AI 생성 평가 리포트를 제공하는 헬스케어 서비스</p>
 </section>
 
+<hr>
 <br>
 
 <section aria-labelledby="roles">
@@ -37,6 +38,7 @@ summary: "My team developed a robotic mouse that won first place in the 2015 UH 
   </ul>
 </section>
 
+<hr>
 <br>
 
 <section aria-labelledby="tech">
@@ -60,29 +62,34 @@ summary: "My team developed a robotic mouse that won first place in the 2015 UH 
   <article aria-labelledby="caffeine-add">
     <h3 id="caffeine-add">🔹 카페인 등록 관리 </h3>
     <p> 서비스 이용자의 카페인 섭취내역 등록 및 시간대별 카페인 체내 잔존량 그래프 제공 </p>
-    <p><em>(Insert screenshot here if available)</em></p>
+    <img src="../img/cafeboo/feature-1.png" >
   </article>
 
   <br>
   <hr>
-
+  <br>
+  
   <article aria-labelledby="caffeine-management">
     <h3 id="caffeine-management">🔹 카페인 상세 관리 기능</h3>
     <p>일자별 카페인 섭취 내역을 다이어리 기록 제공. Frontend에서 요청되는 API에 따라 일일, 주간, 월간, 연간 카페인 섭취량을 그래프로 제공하고, 주간 및 월간 단위로 카페인 섭취 패턴을 시각화한 리포트를 제공</p>
-    <p><em>(Insert screenshot here if available)</em></p>
+    <img src="../img/cafeboo/feature-2.png" >
   </article>
-
+  
+  <br>
   <hr>
-
+  <br>
+  
   <article aria-labelledby="feature-realtime">
     <h3 id="feature-realtime">🔹 실시간 채팅 및 검열</h3>
     <p>WebSocket 기반의 실시간 채팅 기능 제공. 채팅 기능 AI 서버 연동을 통해 이용간 부적절한 표현 검열</p>
-    <p><em>(Insert screenshot here if available)</em></p>
+    <img src="../img/cafeboo/feature-3.png" >
   </article>
-
+  
+  <br>
   <hr>
   <br>
-
+  
+</section>
 
 
 
