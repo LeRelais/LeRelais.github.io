@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/cafeboo/cafeboo-logo.png
 title: "Cafeboo"
 date: 2025-03 ~ 2025-08
 published: true
@@ -9,7 +9,7 @@ labels:
   - Java Spring Boot
   - Redis, Redis Stream
   - MySQL
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+summary: "카페인 섭취 내역을 바탕으로 그에 대한 AI 생성 평가 리포트, 커피루틴이 맞는 사람들과 채팅 기능을 제공하는 서비스"
 ---
 
 <div class="text-center p-4">
