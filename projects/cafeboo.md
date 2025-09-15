@@ -23,6 +23,8 @@ summary: "카페인 섭취 내역을 바탕으로 그에 대한 AI 생성 평가
 <section aria-labelledby="project-details">
   <h2 id="project-details">📌 Project Details</h2>
   <p>개인이 등록한 카페인 섭취 내역을 바탕으로 그에 대한 AI 생성 평가 리포트를 제공하는 헬스케어 서비스</p>
+  <p> Wiki : <a href="https://github.com/100-hours-a-week/13-Cafeboo-wiki/wiki"> Wiki로 이동 </a> </p>
+  <p> GitHub Repository : <a href="https://github.com/100-hours-a-week/13-Cafeboo-be"> Repository로 이동 </a> </p>
 </section>
 
 <hr>
@@ -51,6 +53,14 @@ summary: "카페인 섭취 내역을 바탕으로 그에 대한 AI 생성 평가
     <li>StompJS</li>
     <li>JWT</li>
   </ul>
+</section>
+
+<hr>
+<br>
+
+<section aria-labelledby="troubleshooting">
+  <h2 id="troubleshooting"> Troubleshooting</h2>
+  <p> 프로젝트 설계 및 트러블 슈팅 기록은 <a href="https://www.notion.so/1e2b7198b66480a58cc1f30845cb9cee?source=copy_link#26eb7198b66480c2b814cb70186ac5a8">여기에</a> 기록했습니다. </p>
 </section>
 
 <hr>
@@ -90,7 +100,3 @@ summary: "카페인 섭취 내역을 바탕으로 그에 대한 AI 생성 평가
   <br>
   
 </section>
-
-
-
-프로젝트 설계 및 트러블 슈팅 기록은 [여기에](https://silky-ring-ac3.notion.site/1e2b7198b66480a58cc1f30845cb9cee?source=copy_link) 기록했습니다.
