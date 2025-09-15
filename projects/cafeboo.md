@@ -60,7 +60,7 @@ summary: "카페인 섭취 내역을 바탕으로 그에 대한 AI 생성 평가
 
 <section aria-labelledby="troubleshooting">
   <h2 id="troubleshooting"> Troubleshooting</h2>
-  <p> 프로젝트 설계 및 트러블 슈팅 기록은 <a href="https://www.notion.so/1e2b7198b66480a58cc1f30845cb9cee?source=copy_link#26eb7198b66480c2b814cb70186ac5a8">여기에</a> 기록했습니다. </p>
+  <p> 프로젝트 설계 및 트러블 슈팅 기록은 <a href="https://www.notion.so/1e2b7198b66480a58cc1f30845cb9cee?source=copy_link#26eb7198b66480c2b814cb70186ac5a8"><u>여기에</u></a> 기록했습니다. </p>
 </section>
 
 <hr>
