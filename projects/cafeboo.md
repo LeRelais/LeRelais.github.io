@@ -44,7 +44,7 @@ summary: "카페인 섭취 내역을 바탕으로 그에 대한 AI 생성 평가
 <br>
 
 <section aria-labelledby="tech">
-  <h2 id="tech">🛠️ Technologies</h2>
+  <h2 id="tech">🛠️ Tech Stack</h2>
   <ul>
     <li>Java Spring Boot</li>
     <li>MySQL</li>
